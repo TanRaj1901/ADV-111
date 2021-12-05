@@ -1,5 +1,5 @@
 body{
-    background-color: cadetblue;
+    background-color: lawngreen;
 }
 
 .jumbotron{
@@ -7,11 +7,15 @@ body{
 }
 
 .text_images_and_results{
-    box-shadow: 5px 5px 18px solid;
+    box-shadow: 5px 5px 20px solid gray;
 }
 
-.bob3{
+.mini_result{
     background-color: cornflowerblue;
     border: lightblue 2px solid;
     border-radius: 10px;
+}
+
+li {
+    font-weight: bold;
 }
